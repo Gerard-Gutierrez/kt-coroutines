@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="kt-coroutines-sample" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ggutierrezvi.Main" />
+    <module name="kt-coroutines-sample.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
